@@ -1,2 +1,2 @@
-<script>alert("go to /home to continue")</script>
+<script>window.location.href = "/Webpage-Home.html"</script>
 <header>hello</header>
